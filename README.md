@@ -1,7 +1,7 @@
 # Myshell
 exevcp, fork를 활용한 shell
 
-#Function
+# Function
 내부명령어(cd)
 시그널처리
 입출력재지정
